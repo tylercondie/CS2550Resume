@@ -1,5 +1,5 @@
-#Tyler Condie
-##Accomplished Team Lead
+#Tyler Condie  
+##Accomplished Team Lead  
 (435)313-6745  
 tylerwcondie@gmail.com
 
@@ -12,7 +12,7 @@ Experience and competence in the creation and management of new departments. Yea
 JANUARY 2017 - AUGUST 2017
 *During the merger of Zing Solar and Vision Solar that would become
 Ion Solar, I was part of a team responsible for facilitating the smooth
-transition with digital client records as well as personnel allocation.
+transition with digital client records as well as personnel allocation.  
 *Multi state supervisor for teams of project managers that were directly
 responsible for the progression of client projects.  
 
