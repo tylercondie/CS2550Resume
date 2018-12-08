@@ -1,0 +1,59 @@
+{
+"name": "Tyler Condie",
+"title": "Accomplished Team Lead",
+"phone": "(435) 313-6745",
+"email": "tylerwcondie@gmail.com",
+"skillSummary": "Experience and competence in the creation and management of new departments.  Proficient in conflict resolution with both clients and personnel.  Ability to adapt quickly to new environments and responsibilities.",
+"workExperience": [
+  {
+    "cName": "Ion Solar, ",
+    "cAddress": "Provo",
+    "jobTitle": " - Multi State Market Supervisor",
+    "dateString": "JANUARY 2017 - AUGUST 2017",
+    "responsibilites": [
+
+        "During the merger of Zing Solar and Vision Solar that would become Ion Solar, I was part of a team responsible for facilitating the smooth transition with digital client records as well as personnel allocation.",
+        "Multi state supervisor for teams of project managers that were directly responsible for the progression of client projects."
+
+    ]
+
+
+  },
+  {
+    "cName": "Zing Solar, ",
+    "cAddress": "American Fork",
+    "jobTitle": " - Department Head for Client Acquisition",
+    "dateString": "JANUARY 2016 - JANUARY 2017",
+    "responsibilites": [
+        "Built a  new division for an established solar corporation from the ground up.",
+        "Responsible for identifying and generating interested potential clients in various markets and training a team of employees to do the same.",
+        "Regularly interfaced directly with the CEO, VP of Business Development, and VP of Sales providing reports and suggestions.",
+        "Exceeded every benchmark established by corporate leadership."
+    ]
+
+
+  },
+  {
+    "cName": "Zing Solar, ",
+    "cAddress": "Albuquerque",
+    "jobTitle": " - Energy Consultant and Team Lead",
+    "dateString": "JUNE 2014 - JANUARY 2016",
+    "responsibilites": [
+        "Facilitated the organization and growth of a new market for a regional solar corporation.",
+        "Established a positive corporate image as the regions leading solar provider.",
+        "Hired and trained new employees the methodology for analyzing client needs based on energy consumption."
+    ]
+
+
+  }
+
+
+],
+
+  "uName": "Utah Valley University, ",
+  "uAddress": "Orem",
+  "uStatus": " - Sophomore in Bachelor's Program for Computer Science",
+  "uDates": "AUGUST 2017 - CURRENT",
+  "uSummary": "Currently a Sophomore in the Bachelor’s Program for Computer Science with a cumulative Grade Point Average (GPA) of 3.81"
+
+}

@@ -1,0 +1,97 @@
+/*
+* General CSS Attributes
+*/
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin:auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  max-width: 800px;
+  font-family: "lucida Sans Unicode", "Lucida Grande", sans-serif;
+  margin-bottom: 50px;
+}
+
+p {
+  margin: 0px;
+  max-width: 600px;
+}
+
+ul {
+  max-width: 600px;
+}
+
+li {
+  margin-left: 30px;
+}
+
+h2 {
+  color: #00ab44;
+  margin: 0px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  padding: 0px;
+  cursor: pointer;
+
+}
+
+/*
+* Contact Info Section CSS Headings
+*/
+h1.contactInfo {
+  font-size: 8vmin;
+  font-weight: lighter;
+  color: #353744;
+  padding-top: 10px;
+  margin: 0px;
+  margin-top: 80px;
+  border-style: solid none none none;
+  border-width: 8px;
+  border-color: #53bb84;
+
+}
+
+h2.contactInfo {
+  font-size: 4vmin;
+  font-weight: lighter;
+  margin: 0px;
+}
+
+p.contactInfo {
+  margin: 0px;
+  margin-bottom: 30px;
+  color: #666666;
+  font-size: 15px;
+}
+
+/*
+* Sub Section CSS Headings
+*/
+
+h2.sectionHeader {
+  font-size:  19px;
+}
+
+p strong {
+  color: #353744;
+}
+
+p em {
+  color: #666666;
+}
+
+p span {
+  color: #666666;
+  font-size: 13px;
+}
+#finalHeader {
+  border-style: solid none none none;
+  border-width: 8px;
+  border-color: #53bb84;
+  padding-top: 40px;
+}
+
+#finalParagraph {
+  margin-bottom: 80px;
+}

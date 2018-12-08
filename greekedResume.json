@@ -1,0 +1,56 @@
+{
+"name": "Your Name",
+"title": "Professional Title",
+"phone": "(435) 313-6745",
+"email": "no_reply@example.com",
+"skillSummary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+"workExperience": [
+  {
+    "cName": "Company Name, ",
+    "cAddress": "Location",
+    "jobTitle": " - Job Title",
+    "dateString": "JANUARY 2017 - AUGUST 2017",
+    "responsibilites": [
+
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "Aenean ac interdum nisi. Sed in consequat mi"
+
+    ]
+
+
+  },
+  {
+    "cName": "Company Name, ",
+    "cAddress": "Location",
+    "jobTitle": " - Job Title",
+    "dateString": "JANUARY 2016 - JANUARY 2017",
+    "responsibilites": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "Aenean ac interdum nisi. Sed in consequat mi"
+    ]
+
+
+  },
+  {
+    "cName": "Company Name, ",
+    "cAddress": "Location",
+    "jobTitle": " - Job Title",
+    "dateString": "JUNE 2014 - JANUARY 2016",
+    "responsibilites": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "Aenean ac interdum nisi. Sed in consequat mi"
+    ]
+
+
+  }
+
+
+],
+
+  "uName": "School Name, ",
+  "uAddress": "Location",
+  "uStatus": " - Degree",
+  "uDates": "AUGUST 2017 - CURRENT",
+  "uSummary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore."
+
+}
